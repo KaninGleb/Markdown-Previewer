@@ -34,7 +34,7 @@ pnpm run dev
 
 ## :camera_flash:Screenshots
 
-![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/02-Markdown-Previewer-FullHD.png)
+![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/02-Markdown-Previewer/Markdown-Previewer-FullHD.png)
 
 ---
 
