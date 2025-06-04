@@ -5,6 +5,10 @@
 **Markdown Previewer** is a simple and intuitive web application that allows users to write Markdown text and instantly see the rendered HTML preview in real-time. Built with React, JavaScript, and modern frontend tools, this project demonstrates skills in dynamic UI updates, Markdown parsing, and responsive design. It was created as part of the FreeCodeCamp Front End Libraries certification to fulfill all required user stories and deliver a smooth editing experience.
 ### 🔗 [Link to certification](https://github.com/KaninGleb/FreeCodeCamp-Certification)
 
+## :camera_flash:Screenshots
+
+![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/02-Markdown-Previewer/Markdown-Previewer-FullHD.png)
+
 ## :dart:Features
 - Real-time Markdown to HTML conversion as you type
 - Instant preview updates without page reloads
@@ -31,10 +35,6 @@ pnpm install
 ```
 pnpm run dev
 ```
-
-## :camera_flash:Screenshots
-
-![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/02-Markdown-Previewer/Markdown-Previewer-FullHD.png)
 
 ---
 
